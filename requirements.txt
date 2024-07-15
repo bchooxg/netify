@@ -7,6 +7,6 @@ gunicorn==22.0.0; python_version >= '3.7'
 markdown==3.2.1
 packaging==24.0; python_version >= '3.7'
 pytz==2019.3
-setuptools==62.1.0; python_version >= '3.7'
+setuptools==70.0.0; python_version >= '3.7'
 sqlparse==0.3.0
 whitenoise==5.0.1
