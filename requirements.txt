@@ -1,12 +1,12 @@
 -i https://pypi.org/simple
-certifi==*
-django==*
-django-filter==*
-djangorestframework==*
-gunicorn==*; python_version==3.8
-markdown==*
-packaging==* python_version >= *
-pytz==*
-setuptools==*; python_version >= *
-sqlparse==*
-whitenoise==*
+certifi
+django
+django-filter
+djangorestframework
+gunicorn; python_version == "3.8"
+markdown
+packaging; python_version >= "3.8"
+pytz
+setuptools; python_version >= "3.8"
+sqlparse
+whitenoise
