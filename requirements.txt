@@ -3,10 +3,10 @@ certifi
 django
 django-filter
 djangorestframework
-gunicorn; python_version == "3.8"
+gunicorn; python_version == "3.9"
 markdown
-packaging; python_version >= "3.8"
+packaging; python_version >= "3.9"
 pytz
-setuptools; python_version >= "3.8"
+setuptools; python_version >= "3.9"
 sqlparse
 whitenoise
