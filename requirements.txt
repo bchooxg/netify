@@ -3,7 +3,7 @@ certifi==*
 django==*
 django-filter==*
 djangorestframework==*
-gunicorn==*; python_version==*
+gunicorn==*; python_version==3.8
 markdown==*
 packaging==* python_version >= *
 pytz==*
